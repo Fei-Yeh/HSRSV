@@ -1,2 +1,2 @@
-# HSRSV
-Source codes of Coupled Tensor Decomposition for Hyperspectral Image Super-Resolution in Presence of Spectral Variability will be made available here when the paper is accepted.
+# CSD-BTF
+This is our code for “Spectral Variability-Aware Block-Term Cross-Modal Decoupling for Hyperspectral Super-Resolution”; a detailed and refined version of the code will be released after acceptance of the paper.
